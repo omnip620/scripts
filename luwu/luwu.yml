@@ -1,0 +1,7 @@
+port: 8070
+domain: localhost
+root: /Users/centos/Downloads
+auth:
+  enable: on
+  name: 'admin'
+  pwd: 'admin'
